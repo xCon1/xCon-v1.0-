@@ -1,7 +1,8 @@
 xCon [v1.0] (HENkaku 4 Offline Exploit)
 
 Hi! It's xCon here. Thank you for download the .vpk file.
-First of all the developement is under process which things might need to be fix and to improve.
+
+First of all this is my initial release of the tool so things might need to be fix and to improve.
 But that doesn't mean you can't use the file.
 
 Just go ahead and try the file to you PS Vita (NOTE: Must be running on v3.60).
